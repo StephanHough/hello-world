@@ -1,0 +1,22 @@
+{
+  "name": "hello-world-nodejs",
+  "version": "1.0.0",
+  "description": "Learning New Stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StephanHough/hello-world-nodejs.git"
+  },
+  "author": "SH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StephanHough/hello-world-nodejs/issues"
+  },
+  "homepage": "https://github.com/StephanHough/hello-world-nodejs#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
